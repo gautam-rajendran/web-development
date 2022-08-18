@@ -1,0 +1,36 @@
+div{
+list-style-type: none;
+background-color: lemonchiffon;
+text-transform: uppercase;
+text-indent: 150px;
+padding: 50px;
+border: thick solid whitesmoke;
+}
+body{
+background-color: whitesmoke;
+
+}
+li{
+    list-style: none;
+    height: 25px;
+    letter-spacing: 2px;
+}
+p{
+height: 80px;
+width: 800px;
+letter-spacing: 2px;
+
+}
+h3,h4{
+text-decoration: underline;
+    letter-spacing: 2px;
+    text-align: left;
+}
+#one{
+    font-size: small;
+background-color: lightyellow;
+text-indent: 0%;
+text-transform: none;
+border: thick solid whitesmoke
+
+}
